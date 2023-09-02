@@ -101,6 +101,7 @@ body {
   padding: 8px 18px;
   font-size: 10px;
   font-weight: bold;
+  cursor: pointer;
 }
 
 .view {
@@ -108,7 +109,7 @@ body {
   border: 0.8px solid #494cff;
   color: black;
   border-radius: 20px;
-
+cursor: pointer;
   width: 150px;
   padding: 8px 18px;
   font-size: 10px;
@@ -155,7 +156,7 @@ body {
   padding: 10px 10px;
   border: none;
   border-radius: 16px;
-
+cursor: pointer;
   top: 380px;
   left: 1080px;
 }
