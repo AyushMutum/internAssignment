@@ -173,7 +173,6 @@ body {
   .main-card {
     width: 550px;
     display: flex;
-    align-items: center;
     flex-direction: column;
     position: absolute;
     margin-bottom: 40px;
